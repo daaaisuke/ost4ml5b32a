@@ -1,0 +1,15 @@
+ost4ml5b32a	KEYWORD1
+Pixels	KEYWORD1
+
+begin	KEYWORD2
+show	KEYWORD2
+getH_pins	KEYWORD2
+getL_pins	KEYWORD2
+getNumPixels	KEYWORD2
+getPixelRawColor	KEYWORD2
+getPixelColor	KEYWORD2
+getBrightness	KEYWORD2
+updatePins	KEYWORD2
+updateLength	KEYWORD2
+setPixelColor	KEYWORD2
+setBrightness	KEYWORD2
